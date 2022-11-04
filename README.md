@@ -1,1 +1,1 @@
-ITI0101 tudengikood:222630
+ITI0101 kontrolltöö   tudengikood:222630
