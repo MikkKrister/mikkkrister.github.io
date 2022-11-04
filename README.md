@@ -1,2 +1,2 @@
-#ITI0101 kontrolltöö
+ITI0101 kontrolltöö\n
 tudengikood:222630
